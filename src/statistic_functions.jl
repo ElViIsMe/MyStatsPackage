@@ -110,4 +110,4 @@ StatResult([10, 500.0]) # <1>
 function tstat(x)
     return StatResult(length(x), rse_tstat(x))
 end
-
+#why u no work
