@@ -1,7 +1,7 @@
 module MyStatsPackage
 
 using ProgressMeter
-include("c:/Users/LV/Documents/JuliaRSESuSc/statistic_functions.jl")
+include("c:/Users/LV/Documents/JuliaRSESuSc/src/statistic_functions.jl")
 include("printOwner.jl")
 
 export rse_sum
