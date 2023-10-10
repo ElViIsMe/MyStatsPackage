@@ -1,7 +1,10 @@
 name = "MyStatsPackage"
-uuid ="b4cd1eb8-1e24-11e8-3319-93036a3eb9f3"
-version= "0.1.0"
+uuid = "b4cd1eb8-1e24-11e8-3319-93036a3eb9f3"
+version = "0.1.0"
+
+[deps]
+JuliaFormatter = "98e50ef6-434e-11e9-1051-2b60c6c9e899"
+ProgressMeter = "92933f4c-e287-5a05-a399-4b506db050ca"
+
 [compat]
 julia = "1.9.3"
-[deps]
-ProgressMeter = "92933f4c-e287-5a05-a399-4b506db050ca"
