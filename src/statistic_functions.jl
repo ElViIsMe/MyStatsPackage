@@ -69,7 +69,7 @@ function rse_sum(x)
 end
 
 rse_sum(1:36) == 666
-#---
+#--- 
 
 function rse_mean(x)
     return rse_sum(x) / length(x)
